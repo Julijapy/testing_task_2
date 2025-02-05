@@ -2,7 +2,7 @@
 name = "testing-task-2"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["yuliya valeeva <jul.valeewa@yandex.ru>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
